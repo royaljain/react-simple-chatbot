@@ -19,11 +19,6 @@ A simple chatbot component to create conversation chats
 npm install react-simple-chatbot --save
 ```
 
-## React Simple Chatbot AI Bot
-
-[React Simple Chatbot](https://codeparrot.ai/oracle?owner=LucasBassetti&repo=react-simple-chatbot) Bot will help you understand this repository better. You can ask for code examples, installation guide, debugging help and much more.
-
-
 ## Usage
 
 There are several examples on the [website](http://lucasbassetti.com.br/react-simple-chatbot). Here is the first one to get you started:
@@ -51,6 +46,10 @@ ReactDOM.render(
   document.getElementById('root')
 );
 ```
+
+## React Simple Chatbot with AI
+
+1. [CodeParrot AI](https://codeparrot.ai/oracle?owner=LucasBassetti&repo=react-simple-chatbot) - Bot will help you understand this repository better. You can ask for code examples, installation guide, debugging help and much more.
 
 ## React Simple Chatbot on media
 
